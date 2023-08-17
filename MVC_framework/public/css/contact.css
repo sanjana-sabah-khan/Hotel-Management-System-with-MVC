@@ -1,0 +1,64 @@
+
+.about_us_forum {
+    
+    min-height: 180px;
+    text-align: center;
+    
+}
+
+
+.about_us_contact {
+    
+    min-height: 180px;
+    width: 80%;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 60px;
+    
+    
+}
+
+
+.about_us_reservation {
+    
+    min-height: 70px;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 50px;
+  
+}
+
+
+#reservation_form { margin-bottom: 80px; }
+
+
+input[type=text], select {
+    
+    width: 100%;
+    padding: 12px 20px;
+    margin-top: 15px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    
+}
+
+
+input[type=text] { border: 1px solid silver; }
+
+
+input[type = submit] { margin-top: 10px; }
+
+
+.table, tr { border: 2px solid silver; }
+
+
+.invalidFeedback {
+    
+    color: #ff0000;
+    margin-top: 8px;
+    font-size: 11.5pt;
+    display: block;
+    
+}
