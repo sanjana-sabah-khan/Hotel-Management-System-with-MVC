@@ -1,0 +1,121 @@
+
+.content_box h3:hover {
+    
+    color: #FA944B; 
+    transform: scale(1.1); 
+    text-shadow: 0 10px 20px rgba(0,0,0,0.40), 0 4px 8px rgba(0,0,0,0.06);
+    
+}
+
+
+.rest_image_content_1 {
+    
+    min-height: 350px;
+    background-image: url(../images/rest_img_1.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+
+
+.rest_image_content_2 {
+    
+    min-height: 350px;
+    background-image: url(../images/rest_img_2.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+
+
+.rest_image_content_3 { 
+    
+    min-height: 350px;
+    background-image: url(../images/rest_img_3.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+
+
+.rest_dummy_page { color: black; }
+
+
+.rest_dummy_page:hover {
+    
+    color: black; 
+    text-decoration: none;
+
+}
+
+
+/*Dummy Restaurant Menu*/
+
+
+.menu_item_1 { 
+    
+    min-height: 350px;
+    background-image: url(../images/menu1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+
+
+.menu_item_2 { 
+    
+    min-height: 350px;
+    background-image: url(../images/menu2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+
+
+.menu_item_3 { 
+    
+    min-height: 350px;
+    background-image: url(../images/menu3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+
+
+.menu_item_4 { 
+    
+    min-height: 350px;
+    background-image: url(../images/menu4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+
+
+.menu_item_5 { 
+    
+    min-height: 350px;
+    background-image: url(../images/menu5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+
+
+.menu_item_6 { 
+    
+    min-height: 350px;
+    background-image: url(../images/menu6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}

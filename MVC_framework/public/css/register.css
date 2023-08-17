@@ -1,0 +1,88 @@
+
+html,body { 
+    
+	height: 100%; 
+    background-color: white;
+    
+}
+
+
+#beautify_form {
+    
+	display: flex;
+    margin-left: 290px;
+	
+}
+
+
+form {
+    
+	padding-top: 10px;
+	font-size: 14px;
+	margin-top: 20px;
+    
+}
+
+
+.card-title { 
+    
+    font-weight: 300;
+    margin-top: 20px;
+
+}
+
+
+.btn {
+    
+	font-size: 14px;
+	margin-top: 20px;
+    
+}
+
+
+.login-form { 
+    
+	width: 450px;
+    height: 500px;
+	margin-top: 25%;
+    background-color: #a9f2ff;
+    
+}
+
+
+.sign-in {
+    
+	text-align:center;
+	padding:20px 0 0;
+    
+}
+
+
+.options a {
+    
+    color: green;
+    font-size: 13pt;
+    
+}
+
+
+.options { margin-top: 10px; }
+
+
+.options a:hover {
+    
+    color: darkblue;
+    transition: 0.20s ease-in;
+    text-decoration: none;
+    
+}
+
+
+.invalidFeedback {
+    
+    color: #ff0000;
+    margin-top: 15px;
+    font-size: 11.5pt;
+    display: block;
+    
+}
